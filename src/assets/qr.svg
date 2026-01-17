@@ -1,0 +1,320 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="QR Code" clip-path="url(#clip0_0_4)">
+<path id="Vector" d="M80 0H0V80H80V0Z" fill="var(--fill-0, white)"/>
+<g id="Vector_2">
+<path d="M7.8 5H5V7.8H7.8V5Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 5H7.8V7.8H10.6V5Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 5H10.6V7.8H13.4V5Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 5H13.4V7.8H16.2V5Z" fill="var(--fill-0, black)"/>
+<path d="M19 5H16.2V7.8H19V5Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 5H19V7.8H21.8V5Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 5H21.8V7.8H24.6V5Z" fill="var(--fill-0, black)"/>
+<path d="M33 5H30.2V7.8H33V5Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 5H33V7.8H35.8V5Z" fill="var(--fill-0, black)"/>
+<path d="M47 5H44.2V7.8H47V5Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 5H49.8V7.8H52.6V5Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 5H55.4V7.8H58.2V5Z" fill="var(--fill-0, black)"/>
+<path d="M61 5H58.2V7.8H61V5Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 5H61V7.8H63.8V5Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 5H63.8V7.8H66.6V5Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 5H66.6V7.8H69.4V5Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 5H69.4V7.8H72.2V5Z" fill="var(--fill-0, black)"/>
+<path d="M75 5H72.2V7.8H75V5Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 7.8H5V10.6H7.8V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 7.8H21.8L21.8 10.6H24.6V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 7.8H27.4V10.6H30.2V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M33 7.8H30.2V10.6H33V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 7.8H33V10.6H35.8V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 7.8H35.8V10.6H38.6V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 7.8H38.6V10.6H41.4V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M47 7.8H44.2V10.6H47V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 7.8H49.8V10.6H52.6V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 7.8H55.4V10.6H58.2V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M75 7.8H72.2V10.6H75V7.8Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 10.6H5V13.4H7.8V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 10.6H10.6V13.4H13.4V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 10.6H13.4V13.4H16.2V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M19 10.6H16.2V13.4H19V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 10.6H21.8V13.4H24.6V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 10.6H27.4V13.4H30.2V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M33 10.6H30.2V13.4H33V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 10.6H35.8V13.4H38.6V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 10.6H47L47 13.4H49.8V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 10.6H49.8V13.4H52.6V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 10.6H55.4V13.4H58.2V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 10.6H61V13.4H63.8V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 10.6H63.8V13.4H66.6V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 10.6H66.6V13.4H69.4V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M75 10.6H72.2V13.4H75V10.6Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 13.4H5V16.2H7.8V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 13.4H10.6V16.2H13.4V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 13.4H13.4V16.2H16.2V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M19 13.4H16.2V16.2H19V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 13.4H21.8V16.2H24.6V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M33 13.4H30.2V16.2H33V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 13.4H33V16.2H35.8V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 13.4H38.6V16.2H41.4V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 13.4H55.4V16.2H58.2V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 13.4H61V16.2H63.8V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 13.4H63.8V16.2H66.6V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 13.4H66.6V16.2H69.4V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M75 13.4H72.2V16.2H75V13.4Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 16.2H5V19H7.8V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 16.2H10.6V19H13.4V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 16.2H13.4V19H16.2V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M19 16.2H16.2V19H19V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 16.2H21.8V19H24.6V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M33 16.2H30.2V19H33V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 16.2H33V19H35.8V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 16.2H41.4V19H44.2V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M47 16.2H44.2V19H47V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 16.2H55.4V19H58.2V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 16.2H61V19H63.8V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 16.2H63.8V19H66.6V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 16.2H66.6V19H69.4V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M75 16.2H72.2V19H75V16.2Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 19H5V21.8H7.8V19Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 19H21.8V21.8H24.6V19Z" fill="var(--fill-0, black)"/>
+<path d="M33 19H30.2V21.8H33V19Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 19H33V21.8H35.8V19Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 19H38.6V21.8H41.4V19Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 19H47L47 21.8H49.8V19Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 19H49.8V21.8H52.6V19Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 19H55.4V21.8H58.2V19Z" fill="var(--fill-0, black)"/>
+<path d="M75 19H72.2V21.8H75V19Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 21.8H5V24.6H7.8V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 21.8L7.8 21.8V24.6H10.6V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 21.8H10.6V24.6H13.4V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 21.8H13.4V24.6H16.2V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M19 21.8H16.2V24.6H19V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 21.8L19 21.8V24.6H21.8L21.8 21.8Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 21.8H21.8L21.8 24.6H24.6V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 21.8L27.4 21.8V24.6H30.2V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 21.8H33V24.6H35.8V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 21.8H38.6V24.6H41.4V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M47 21.8L44.2 21.8V24.6H47L47 21.8Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 21.8H49.8V24.6H52.6V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 21.8H55.4V24.6H58.2V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M61 21.8L58.2 21.8V24.6H61V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 21.8H61V24.6H63.8V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 21.8H63.8V24.6H66.6V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 21.8H66.6V24.6H69.4V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 21.8L69.4 21.8V24.6H72.2V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M75 21.8H72.2V24.6H75V21.8Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 24.6H38.6V27.4H41.4V24.6Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 24.6H49.8V27.4H52.6V24.6Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 27.4H13.4V30.2H16.2V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 27.4H19V30.2H21.8V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 27.4H21.8V30.2H24.6V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 27.4H24.6V30.2H27.4V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 27.4H35.8V30.2H38.6V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M47 27.4H44.2V30.2H47V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 27.4H47V30.2H49.8V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 27.4H49.8V30.2H52.6V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 27.4H52.6V30.2H55.4V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 27.4H66.6V30.2H69.4V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 27.4H69.4V30.2H72.2V27.4Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 30.2H5V33H7.8V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 30.2H7.8V33H10.6V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 30.2H19V33H21.8V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 30.2H24.6V33H27.4V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 30.2H27.4V33H30.2V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 30.2H33V33H35.8V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 30.2H38.6V33H41.4V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 30.2H41.4V33H44.2V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M47 30.2H44.2V33H47V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 30.2H47V33H49.8V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M61 30.2H58.2V33H61V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 30.2H61V33H63.8V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 30.2H69.4V33H72.2V30.2Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 33H7.8V35.8H10.6V33Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 33H10.6V35.8H13.4V33Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 33H13.4V35.8H16.2V33Z" fill="var(--fill-0, black)"/>
+<path d="M19 33H16.2V35.8H19V33Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 33H19V35.8H21.8V33Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 33H21.8V35.8H24.6V33Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 33H24.6V35.8H27.4V33Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 33H27.4V35.8H30.2V33Z" fill="var(--fill-0, black)"/>
+<path d="M33 33H30.2V35.8H33V33Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 33H41.4V35.8H44.2V33Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 33H47L47 35.8H49.8V33Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 33H49.8V35.8H52.6V33Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 33H52.6V35.8H55.4V33Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 33H61V35.8H63.8V33Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 33H66.6V35.8H69.4V33Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 33H69.4V35.8H72.2V33Z" fill="var(--fill-0, black)"/>
+<path d="M75 33H72.2V35.8H75V33Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 35.8H13.4V38.6H16.2V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M19 35.8H16.2V38.6H19V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 35.8H24.6V38.6H27.4V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 35.8H33V38.6H35.8V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 35.8H35.8V38.6H38.6V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 35.8H38.6V38.6H41.4V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 35.8H41.4V38.6H44.2V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M61 35.8H58.2V38.6H61V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 35.8H61V38.6H63.8V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 35.8H63.8V38.6H66.6V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 35.8H66.6V38.6H69.4V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M75 35.8H72.2V38.6H75V35.8Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 38.6H5V41.4H7.8V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M19 38.6H16.2V41.4H19V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 38.6H21.8V41.4H24.6V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 38.6H27.4V41.4H30.2V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 38.6H33V41.4H35.8V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 38.6H38.6V41.4H41.4V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 38.6H41.4V41.4H44.2V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M75 38.6H72.2V41.4H75V38.6Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 41.4H7.8V44.2H10.6V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M19 41.4H16.2V44.2H19V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 41.4H27.4V44.2H30.2V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M33 41.4H30.2V44.2H33V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 41.4H35.8V44.2H38.6V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 41.4H38.6V44.2H41.4V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 41.4H41.4V44.2H44.2V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 41.4H52.6V44.2H55.4V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 41.4H55.4V44.2H58.2V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 41.4H63.8V44.2H66.6V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 41.4H66.6V44.2H69.4V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 41.4H69.4V44.2H72.2V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M75 41.4H72.2V44.2H75V41.4Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 44.2H7.8V47H10.6V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 44.2H10.6V47H13.4V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 44.2H13.4V47H16.2V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M19 44.2H16.2V47H19V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 44.2H21.8V47H24.6V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 44.2H24.6V47H27.4V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 44.2H27.4V47H30.2V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M33 44.2H30.2V47H33V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M47 44.2H44.2V47H47V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 44.2H47V47H49.8V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M61 44.2H58.2V47H61V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 44.2H63.8V47H66.6V44.2Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 47L5 47V49.8H7.8V47Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 47H10.6V49.8H13.4V47Z" fill="var(--fill-0, black)"/>
+<path d="M19 47H16.2V49.8H19V47Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 47H19V49.8H21.8L21.8 47Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 47H24.6V49.8H27.4V47Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 47L33 47V49.8H35.8V47Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 47H38.6V49.8H41.4V47Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 47H47L47 49.8H49.8V47Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 47H52.6V49.8H55.4V47Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 47L55.4 47V49.8H58.2V47Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 47H61V49.8H63.8V47Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 47H63.8V49.8H66.6V47Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 47L66.6 47V49.8H69.4V47Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 49.8H5V52.6H7.8V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 49.8H7.8V52.6H10.6V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 49.8H10.6V52.6H13.4V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 49.8H21.8L21.8 52.6H24.6V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M27.4 49.8H24.6V52.6H27.4V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 49.8H38.6V52.6H41.4V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 49.8H41.4V52.6H44.2V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M47 49.8H44.2V52.6H47L47 49.8Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 49.8H47L47 52.6H49.8V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 49.8H49.8V52.6H52.6V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 49.8H52.6V52.6H55.4V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 49.8H55.4V52.6H58.2V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M61 49.8H58.2V52.6H61V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 49.8H61V52.6H63.8V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 49.8H66.6V52.6H69.4V49.8Z" fill="var(--fill-0, black)"/>
+<path d="M47 52.6H44.2V55.4H47V52.6Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 52.6H47V55.4H49.8V52.6Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 52.6H49.8V55.4H52.6V52.6Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 52.6H61V55.4H63.8V52.6Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 52.6H69.4V55.4H72.2V52.6Z" fill="var(--fill-0, black)"/>
+<path d="M75 52.6H72.2V55.4H75V52.6Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 55.4H5V58.2H7.8V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 55.4H7.8V58.2H10.6V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 55.4H10.6V58.2H13.4V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 55.4H13.4V58.2H16.2V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M19 55.4H16.2V58.2H19V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 55.4H19V58.2H21.8V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 55.4H21.8V58.2H24.6V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 55.4H27.4V58.2H30.2V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 55.4H35.8V58.2H38.6V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M47 55.4H44.2V58.2H47V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 55.4H49.8V58.2H52.6V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 55.4H55.4V58.2H58.2V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 55.4H61V58.2H63.8V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 55.4H66.6V58.2H69.4V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 55.4H69.4V58.2H72.2V55.4Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 58.2H5V61H7.8V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 58.2H21.8L21.8 61H24.6V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 58.2H27.4V61H30.2V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 58.2H35.8V61H38.6V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 58.2H38.6V61H41.4V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 58.2H41.4V61H44.2V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M47 58.2H44.2V61H47V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 58.2H49.8V61H52.6V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 58.2H61V61H63.8V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 58.2H63.8V61H66.6V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 58.2H69.4V61H72.2V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M75 58.2H72.2V61H75V58.2Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 61H5V63.8H7.8V61Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 61H10.6V63.8H13.4V61Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 61H13.4V63.8H16.2V61Z" fill="var(--fill-0, black)"/>
+<path d="M19 61H16.2V63.8H19V61Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 61H21.8V63.8H24.6V61Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 61H33V63.8H35.8V61Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 61H49.8V63.8H52.6V61Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 61H52.6V63.8H55.4V61Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 61H55.4V63.8H58.2V61Z" fill="var(--fill-0, black)"/>
+<path d="M61 61H58.2V63.8H61V61Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 61H61V63.8H63.8V61Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 61H63.8V63.8H66.6V61Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 61H66.6V63.8H69.4V61Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 63.8H5V66.6H7.8V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 63.8H10.6V66.6H13.4V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 63.8H13.4V66.6H16.2V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M19 63.8H16.2V66.6H19V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 63.8H21.8V66.6H24.6V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M30.2 63.8H27.4V66.6H30.2V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M33 63.8H30.2V66.6H33V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 63.8H33V66.6H35.8V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 63.8H35.8V66.6H38.6V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 63.8H38.6V66.6H41.4V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 63.8H41.4V66.6H44.2V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M49.8 63.8H47V66.6H49.8V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M52.6 63.8H49.8V66.6H52.6V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 63.8H52.6V66.6H55.4V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M61 63.8H58.2V66.6H61V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M66.6 63.8H63.8V66.6H66.6V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M72.2 63.8H69.4V66.6H72.2V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M75 63.8H72.2V66.6H75V63.8Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 66.6H5V69.4H7.8V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 66.6H10.6V69.4H13.4V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 66.6H13.4V69.4H16.2V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M19 66.6H16.2V69.4H19V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 66.6H21.8V69.4H24.6V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M33 66.6H30.2V69.4H33V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 66.6H52.6V69.4H55.4V66.6Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 69.4H5V72.2H7.8V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 69.4H21.8V72.2H24.6V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M38.6 69.4H35.8V72.2H38.6V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M41.4 69.4H38.6V72.2H41.4V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M61 69.4H58.2V72.2H61V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M63.8 69.4H61V72.2H63.8V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 69.4H66.6V72.2H69.4V69.4Z" fill="var(--fill-0, black)"/>
+<path d="M7.8 72.2H5V75H7.8V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M10.6 72.2H7.8V75H10.6V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M13.4 72.2H10.6V75H13.4V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M16.2 72.2H13.4V75H16.2V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M19 72.2H16.2V75H19V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M21.8 72.2H19V75H21.8L21.8 72.2Z" fill="var(--fill-0, black)"/>
+<path d="M24.6 72.2H21.8L21.8 75H24.6V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M33 72.2H30.2V75H33V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M35.8 72.2H33V75H35.8V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M44.2 72.2H41.4V75H44.2V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M47 72.2H44.2V75H47V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M55.4 72.2H52.6V75H55.4V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M58.2 72.2H55.4V75H58.2V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M69.4 72.2H66.6V75H69.4V72.2Z" fill="var(--fill-0, black)"/>
+<path d="M75 72.2H72.2V75H75V72.2Z" fill="var(--fill-0, black)"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
