@@ -83,27 +83,27 @@ const faqs = [
   {
     question: "What is Lingowire?",
     answer:
-      "LingoWire is a practice-focused language app that connects learners with real partners, guided prompts, and community groups — so you can actually speak the language, not just study it.",
+      "Lingowire is a practice-focused language app that connects language learners with practice partners, guided prompts, and community groups — so you can actually speak the language, not just study it.",
   },
   {
-    question: "How is LingoWire different from other language apps?",
+    question: "How is Lingowire different from other language apps?",
     answer:
-      "LingoWire isn’t gamified, lesson-heavy, or solo. You learn through real conversations with real people, supported by structured prompts and a global community.",
+      "LingoWire isn’t overly-gamified or lesson-heavy. You learn through real conversations with real people, supported by structured prompts and a global community.",
   },
   {
     question: "Do I need to be fluent to join?",
     answer:
-      "No! LingoWire is for all levels; beginners, intermediate learners, and advanced speakers. You can find partners who match your fluency level.",
+      "No! Lingowire is for all levels; from complete beginners to advanced speakers. You can find partners who match your fluency level.",
   },
   {
-    question: "Is LingoWire free?",
+    question: "Is Lingowire free?",
     answer:
-      "The app has a free tier with essential features. Additional features (such as teaching tools, advanced filters, and specialized groups) may be included in a premium plan.",
+      "Yes! The free version contains all essential features. Premium features are available for select languages.",
   },
   {
-    question: "Can I teach on LingoWire and earn?",
+    question: "Can I teach on Lingowire and earn?",
     answer:
-      "Yes. Qualified users can become community teachers, host sessions, and earn through paid practice or group conversations.",
+      "Yes. Qualified users can become community teachers who host sessions and earn through paid practice or group conversations.",
   },
 ];
 
