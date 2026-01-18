@@ -1,8 +1,13 @@
 @import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Source+Sans+Pro:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Open+Sans:wght@400;600;700&display=swap");
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+}
+
+.font-open-sans {
+  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 
 .flag-marquee {
@@ -13,6 +18,7 @@ body {
 .flag-track {
   display: flex;
   width: max-content;
+  gap: 25px;
   animation: flag-scroll 25s linear infinite;
 }
 

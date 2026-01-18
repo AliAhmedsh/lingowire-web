@@ -308,15 +308,17 @@ function FAQ() {
             <img src={assets.faqBubble} alt="" className="h-[40px] w-[40px]" />
             <img src={assets.faqCharacter} alt="" className="h-[52px] w-auto" />
           </div>
-<div className="flex justify-center">
-  <h2 className="ml-4 text-left font-['Source_Sans_Pro'] text-[32px] font-semibold leading-[38px] text-[#223982] md:text-[40px] md:leading-[44px]">
-    Frequently Asked<br />Questions
-  </h2>
-</div>
+          <div className="flex justify-center">
+            <h2 className="ml-4 whitespace-nowrap text-left font-['Source_Sans_Pro'] text-[32px] font-semibold leading-[38px] text-[#223982] md:text-[40px] md:leading-[44px]">
+              Frequently Asked
+              <br />
+              Questions
+            </h2>
+          </div>
 
         </div>
         <h2 className="hidden text-center font-['Source_Sans_Pro'] text-[32px] font-semibold leading-[38px] text-[#223982] sm:block md:text-[40px] md:leading-[44px]">
-          Frequently<br />Asked Questions
+          Frequently Asked Questions
         </h2>
         <div className="mt-4 flex flex-col items-center gap-5 sm:mt-[40px] sm:flex-row sm:items-start sm:justify-between sm:gap-[40px] sm:px-[50px]">
           <div className="relative hidden w-[280px] flex-col items-center sm:flex sm:w-[400px]">
