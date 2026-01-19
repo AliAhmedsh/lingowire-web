@@ -143,7 +143,7 @@ function NavBar() {
         <img
           src={assets.logo}
           alt="Lingowire"
-          className="h-[32px] w-[200px] sm:w-auto sm:h-[40px]"
+          className="h-[32px] sm:h-[40px] w-auto max-w-[180px] object-contain"
         />
         <button className="flex h-[28px] items-center justify-center gap-1 rounded-[20px] bg-[#223982] px-3 text-[11px] font-semibold text-white sm:h-[45px] sm:w-[241px] sm:gap-2 sm:px-0 sm:text-[20px]">
           <span className="font-['Source_Sans_Pro'] sm:hidden">Download</span>
@@ -381,7 +381,7 @@ function Footer() {
             <img
               src={assets.footerLogo}
               alt="Lingowire"
-              className="h-[32px] w-[200px] sm:w-auto sm:h-[40px] mx-auto"
+              className="h-[32px] sm:h-[40px] w-auto max-w-[180px] mx-auto object-contain"
             />
             <p className="max-w-[265px] text-[12px] font-semibold leading-[16px] tracking-[-0.24px] sm:text-[20px] sm:leading-[24px] sm:tracking-[-0.4px]">
               Lingowire makes immersive language learning possible anywhere.
