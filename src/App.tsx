@@ -88,7 +88,7 @@ const faqs = [
   {
     question: "How is Lingowire different from other language apps?",
     answer:
-      "LingoWire isn’t overly-gamified or lesson-heavy. You learn through real conversations with real people, supported by structured prompts and a global community.",
+      "Lingowire isn’t overly-gamified or lesson-heavy. You learn through real conversations with real people, supported by structured prompts and a global community.",
   },
   {
     question: "Do I need to be fluent to join?",
