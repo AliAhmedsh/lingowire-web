@@ -24,14 +24,14 @@ function WhySection() {
         <h2 className="text-center font-['Source_Sans_Pro'] text-[20px] font-semibold leading-[24px] text-[#223982] sm:text-[40px] sm:leading-[44px]">
           Why Lingowire?
         </h2>
-        <div className="mt-6 flex flex-col items-center gap-4 sm:mt-[60px] sm:flex-row sm:justify-between sm:gap-[40px]">
+        <div className="mt-6 flex flex-col items-center gap-5 sm:mt-[60px] sm:flex-row sm:justify-center sm:gap-[50px]">
           {features.map((item) => (
             <div
-              className="flex h-[220px] w-full max-w-[340px] flex-col items-center justify-between rounded-[20px] bg-[#223982] px-[10px] py-[20px] text-center text-white shadow-[0px_4px_4px_rgba(0,0,0,0.25)] sm:h-[339px] sm:w-[372px] sm:py-[60px]"
+              className="flex h-[200px] w-full max-w-[320px] flex-col items-center gap-3 rounded-[18px] bg-[#223982] px-[12px] py-[18px] text-center text-white shadow-[0px_4px_4px_rgba(0,0,0,0.25)] sm:h-[339px] sm:w-[372px] sm:gap-6 sm:rounded-[20px] sm:px-[20px] sm:py-[60px]"
               key={item.title}
             >
-              <img src={item.icon} alt="" className="h-[70px] w-[70px] sm:h-[123px] sm:w-[123px]" />
-              <p className="text-[13px] leading-[18px] sm:text-[24px] sm:leading-[28px]">{item.title}</p>
+              <img src={item.icon} alt="" className="h-[64px] w-[64px] sm:h-[123px] sm:w-[123px]" />
+              <p className="text-[15px] leading-[22px] sm:text-[26px] sm:leading-[30px]">{item.title}</p>
             </div>
           ))}
         </div>

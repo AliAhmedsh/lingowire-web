@@ -5,7 +5,7 @@ import { AppStoreButtons } from "../components/Layout";
 function Hero() {
   return (
     <section className="bg-[#223982] -mt-4">
-      <div className="mx-auto flex w-full max-w-[1417px] flex-col items-center justify-between gap-8 px-5 pb-10 pt-8 text-center sm:h-[650px] sm:flex-row sm:gap-0 sm:px-[50px] sm:pb-0 sm:pt-0 sm:text-left">
+      <div className="mx-auto flex w-full max-w-[1417px] flex-col-reverse items-center justify-between gap-8 px-5 pb-10 pt-8 text-center sm:h-[650px] sm:flex-row sm:gap-0 sm:px-[50px] sm:pb-0 sm:pt-0 sm:text-left">
         <div className="max-w-[601px] text-white">
           <h1 className="font-['Source_Sans_Pro'] text-[30px] font-semibold leading-[36px] sm:text-[64px] sm:leading-[76px]">
             Speak your Language

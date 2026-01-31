@@ -43,19 +43,19 @@ function AppStoreButtons({ className }: { className?: string }) {
 function NavBar() {
   return (
     <header className="rounded-b-2xl sticky top-0 z-50 bg-white shadow-[0px_4px_4px_rgba(0,0,0,0.25)]">
-      <div className="mx-auto flex h-[64px] w-full max-w-[1417px] items-center justify-between px-4 sm:h-[98px] sm:px-[50px]">
+      <div className="mx-auto flex h-[80px] w-full max-w-[1417px] items-center justify-between px-5 sm:h-[98px] sm:px-[50px]">
         <Link to="/" aria-label="Go to homepage" className="inline-flex items-center">
           <img
             src={logo}
             alt="Lingowire"
-            className="h-[32px] sm:h-[40px] w-auto max-w-[180px] object-contain transition-transform hover:scale-[1.01] focus-visible:scale-[1.01]"
+            className="h-[26px] sm:h-[40px] w-auto max-w-[160px] object-contain transition-transform hover:scale-[1.01] focus-visible:scale-[1.01]"
           />
         </Link>
         <a
           href="https://play.google.com/store/apps/details?id=com.lingowire"
           target="_blank"
           rel="noreferrer"
-          className="flex h-[28px] items-center justify-center gap-1 rounded-[20px] bg-[#223982] px-3 text-[11px] font-semibold text-white sm:h-[45px] sm:w-[241px] sm:gap-2 sm:px-0 sm:text-[20px]"
+          className="flex h-[38px] min-w-[150px] items-center justify-center gap-2 rounded-[22px] bg-[#223982] px-4 text-[12px] font-semibold text-white sm:h-[45px] sm:w-[241px] sm:gap-2 sm:px-0 sm:text-[20px]"
         >
           <span className="font-['Source_Sans_Pro'] sm:hidden">Download</span>
           <span className="hidden font-['Source_Sans_Pro'] sm:inline">Download Lingowire</span>
@@ -87,7 +87,7 @@ function Footer() {
           <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-[40px]">
             <Link to="/contact">Contact Us</Link>
             <span>|</span>
-            <Link to="/privacy">Privacy policy</Link>
+            <Link to="/privacy">Privacy Policy</Link>
             <span>|</span>
             <Link to="/terms">Terms & Conditions</Link>
           </div>

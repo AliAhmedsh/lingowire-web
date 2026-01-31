@@ -24,14 +24,14 @@ function ContactPage() {
               <div className="space-y-3 text-[15px] leading-[23px] text-[#1a1a1a] sm:text-[18px] sm:leading-[27px]">
                 <p>
                   • General inquiries: <a className="text-[#223982] font-semibold" href="mailto:hello@lingowire.com">hello@lingowire.com</a><br />
-                  • Partnerships: <a className="text-[#223982] font-semibold" href="mailto:partnerships@lingowire.com">partnerships@lingowire.com</a><br />
-                  • Support: <a className="text-[#223982] font-semibold" href="mailto:support@lingowire.com">support@lingowire.com</a>
+                  • Partnerships: <a className="text-[#223982] font-semibold" href="mailto:hello@lingowire.com">hello@lingowire.com</a><br />
+                  • Support: <a className="text-[#223982] font-semibold" href="mailto:hello@lingowire.com">hello@lingowire.com</a>
                 </p>
                 <p>
                   Prefer socials? Follow us on TikTok, Instagram, or X for product updates, launch news, and weekly practice prompts.
                 </p>
                 <p>
-                  Press & speaking: <a className="text-[#223982] font-semibold" href="mailto:press@lingowire.com">press@lingowire.com</a>
+                  Press & speaking: <a className="text-[#223982] font-semibold" href="mailto:hello@lingowire.com">hello@lingowire.com</a>
                 </p>
               </div>
             </div>
