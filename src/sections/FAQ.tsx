@@ -16,7 +16,7 @@ const faqs = [
   {
     question: "Who can join?",
     answer:
-      "Beginners to advanced speakers are welcome. You can find partners at your level and gradually move into groups or teaching.",
+      "Beginners to advanced speakers are welcome. You can find partners at any level.",
   },
   {
     question: "Can I teach on Lingowire?",
