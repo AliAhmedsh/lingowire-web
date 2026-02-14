@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import footerLogo from "../assets/footer-logo.svg";
-import appStoreBadge from "../assets/comingsoon.png";
+import appStoreBadge from "../assets/appStoreBadge.svg";
 import playBadge from "../assets/playBadge.svg";
 import logo from "../assets/logo.svg";
 import downloadIcon from "../assets/download.svg";
@@ -14,12 +14,14 @@ function AppStoreButtons({ className }: { className?: string }) {
     <div className={`flex items-center gap-5 ${className ?? ""}`}>
       <a
         className="h-[40px] w-[130px]"
-        href="#app-store"
-        aria-label="Download on the App Store"
+        href="https://apps.apple.com/us/app/lingowire-language-practice/id6753318520"
+        target="_blank"
+        rel="noreferrer"
+        aria-label="Get it on the App Store"
       >
         <img
           src={appStoreBadge}
-          alt="Download on the App Store"
+          alt="Get it on the App Store"
           className="h-full w-full object-contain"
         />
       </a>
@@ -95,10 +97,34 @@ function Footer() {
             © 2026 Lingowire Inc
           </p>
         </div>
-        <div className="mt-4 flex justify-center gap-[12px] sm:mt-[40px] sm:justify-end">
-          <img src={socialTiktok} alt="TikTok" className="h-[20px] w-[20px] sm:h-[24px] sm:w-[24px]" />
-          <img src={socialInstagram} alt="Instagram" className="h-[20px] w-[20px] sm:h-[24px] sm:w-[24px]" />
-          <img src={socialX} alt="X" className="h-[20px] w-[18px] sm:h-[24px] sm:w-[21px]" />
+        <div className="mt-4 flex justify-center gap-4 sm:mt-[40px] sm:justify-end sm:gap-6">
+          <a
+            href="https://www.tiktok.com/@lingowire"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="Lingowire on TikTok"
+            className="flex h-12 w-12 items-center justify-center rounded-full border border-white/25 bg-white/5 transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:h-14 sm:w-14"
+          >
+            <img src={socialTiktok} alt="TikTok" className="h-[24px] w-[24px] sm:h-[28px] sm:w-[28px]" />
+          </a>
+          <a
+            href="https://www.instagram.com/lingowire"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="Lingowire on Instagram"
+            className="flex h-12 w-12 items-center justify-center rounded-full border border-white/25 bg-white/5 transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:h-14 sm:w-14"
+          >
+            <img src={socialInstagram} alt="Instagram" className="h-[24px] w-[24px] sm:h-[28px] sm:w-[28px]" />
+          </a>
+          <a
+            href="https://x.com/lingowire"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="Lingowire on X"
+            className="flex h-12 w-12 items-center justify-center rounded-full border border-white/25 bg-white/5 transition hover:bg-white/15 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:h-14 sm:w-14"
+          >
+            <img src={socialX} alt="X" className="h-[24px] w-[22px] sm:h-[28px] sm:w-[26px]" />
+          </a>
         </div>
       </div>
     </footer>
