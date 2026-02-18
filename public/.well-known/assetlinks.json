@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lingowire",
+      "sha256_cert_fingerprints": [
+        "63:8C:50:6C:D1:4C:39:2A:9D:A1:00:2A:08:54:4D:EE:25:63:85:A0:EC:78:9F:4B:8B:0E:BD:09:68:31:C8:F2"
+      ]
+    }
+  }
+]
